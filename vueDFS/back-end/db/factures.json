@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "dateEmise": "zaza",
+    "factureNumber": "1",
+    "description": "Description de la facture modifié 1",
+    "client": 1,
+    "prestations": [
+      {
+        "id": 1,
+        "description": "Service A",
+        "quantite": 2,
+        "montantUnitaire": 500
+      },
+      {
+        "id": 2,
+        "description": "Service B",
+        "quantite": 3,
+        "montantUnitaire": 200
+      }
+    ]
+  },
+  {
+    "id": -1,
+    "dateEmise": "2024-08-14",
+    "factureNumber": "3",
+    "description": "Description de la facture 1",
+    "client": 1,
+    "prestations": [
+      {
+        "id": 1,
+        "description": "Service A",
+        "quantite": 2,
+        "montantUnitaire": 500
+      },
+      {
+        "id": 2,
+        "description": "Service B",
+        "quantite": 3,
+        "montantUnitaire": 200
+      }
+    ]
+  },
+  {
+    "id": -1,
+    "dateEmise": "2024-08-14",
+    "factureNumber": "3",
+    "description": "Description de la facture 1",
+    "client": 1,
+    "prestations": [
+      {
+        "id": 1,
+        "description": "Service A",
+        "quantite": 2,
+        "montantUnitaire": 500
+      },
+      {
+        "id": 2,
+        "description": "Service B",
+        "quantite": 3,
+        "montantUnitaire": 200
+      }
+    ]
+  },
+  {
+    "id": -1,
+    "dateEmise": "2024-08-14",
+    "factureNumber": "3",
+    "description": "Description de la facture 1",
+    "client": 1,
+    "prestations": [
+      {
+        "id": 1,
+        "description": "Service A",
+        "quantite": 2,
+        "montantUnitaire": 500
+      },
+      {
+        "id": 2,
+        "description": "Service B",
+        "quantite": 3,
+        "montantUnitaire": 200
+      }
+    ]
+  }
+]
